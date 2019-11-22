@@ -1,0 +1,11 @@
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/bin/Debug/netcoreapp3.0/UrbanPlanner
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/bin/Debug/netcoreapp3.0/UrbanPlanner.deps.json
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/bin/Debug/netcoreapp3.0/UrbanPlanner.runtimeconfig.json
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/bin/Debug/netcoreapp3.0/UrbanPlanner.runtimeconfig.dev.json
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/bin/Debug/netcoreapp3.0/UrbanPlanner.dll
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/bin/Debug/netcoreapp3.0/UrbanPlanner.pdb
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/obj/Debug/netcoreapp3.0/UrbanPlanner.csprojAssemblyReference.cache
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/obj/Debug/netcoreapp3.0/UrbanPlanner.AssemblyInfoInputs.cache
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/obj/Debug/netcoreapp3.0/UrbanPlanner.AssemblyInfo.cs
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/obj/Debug/netcoreapp3.0/UrbanPlanner.dll
+/Users/keatonwilliamson/workspace/Csharp35-Demos/UrbanPlanner/UrbanPlanner/obj/Debug/netcoreapp3.0/UrbanPlanner.pdb
